@@ -1,0 +1,6 @@
+{
+  "name": "Gás Delivery Simulator",
+  "description": "Simulador 3D de mundo aberto de entregas de gás de cozinha em uma cidade brasileira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
